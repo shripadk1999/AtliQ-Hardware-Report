@@ -1,10 +1,10 @@
 # AtliQ Hardware Sales and Finance Report
 ![atliq](https://github.com/shripadk1999/AtliQ-Hardware-Report/assets/161477229/dc69838e-c15a-46e9-9be9-3972d67d27eb)
 
-## 1.Sales Report
+## Sales Report for AtliQ Hardware
 The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 offers a comprehensive overview of the company's financial performance. This report is a valuable resource for retailers, consumers, and stakeholders seeking to understand the company's sales trends and growth over a three-year period. <br>
 
- Project objective:<br>
+ ### Project objective:<br>
 
 1. Create a Customer performance report
 
@@ -41,7 +41,7 @@ Percentage Deviation from Target: This measure indicates the success or challeng
 These reports are valuable tools for assessing AtliQ Hardware's financial health, sales strategies, and international market presence. Whether you are a stakeholder, executive, investor, or analyst, these reports offer crucial data for informed decision-making and strategic planning.<br>
 
 
-## 2.Sales Report for AtliQ Hardware
+
 ### Top 10 Products
 Description <br>
 This report provides an overview of key insights derived from the report, which focuses on the top 10 products for AtliQ Hardware. <br>
@@ -124,7 +124,7 @@ The grand total net sales for these top 5 countries in 2021 amounted to 367.2 mi
 
 For detailed numerical data, please refer to the original report.<br>
 
-## 3.Finance Report :
+## Finance Report :
 ### Project objective:
 
 1. Create P & L Report by Fiscal Year and P & L Report by Month(FY)<br>
