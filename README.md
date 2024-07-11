@@ -4,19 +4,19 @@
 ## 1.Sales Report
 The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 offers a comprehensive overview of the company's financial performance. This report is a valuable resource for retailers, consumers, and stakeholders seeking to understand the company's sales trends and growth over a three-year period. <br>
 
-### Project objective:
+ Project objective:<br>
 
 1. Create a Customer performance report
 
 2. Conduct a comprehensive comparison between Market performance and sales targets
 
 3. Create a Sales Report for AtliQ Hardware <br>
-## Customer Performance Report
-### Description
+### Customer Performance Report
+ Description<br>
 The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020 and 2021 provides a comprehensive view of the company's financial performance. It offers a detailed breakdown of net sales for these years and calculates the percentage growth of net sales from 2020 to 2021. <br>
 
 
-### Key Highlights
+Key Highlights<br>
 Yearly Net Sales Analysis: This report breaks down net sales annually, allowing readers to identify trends and patterns in revenue generation. <br>
 
 Comparative Growth Analysis: It calculates the percentage growth in net sales from 2020 to 2021, serving as a key performance indicator.<br>
