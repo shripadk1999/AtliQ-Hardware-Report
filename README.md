@@ -1,4 +1,4 @@
-# AtliQ Hardware Sale and Finance Report
+# AtliQ Hardware Sales and Finance Report
 ![atliq](https://github.com/shripadk1999/AtliQ-Hardware-Report/assets/161477229/dc69838e-c15a-46e9-9be9-3972d67d27eb)
 
 ## 1.Sales Report
