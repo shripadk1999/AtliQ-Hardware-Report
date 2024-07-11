@@ -27,11 +27,11 @@ Strategic Planning: Stakeholders and management can make informed decisions rega
 
 ### Market performance Vs sales targets
 
-### Description
+ Description<br>
 The AtliQ Hardware Market Performance Report evaluates the company's sales performance across different countries and compares the sales targets set for the year 2021 with the actual net sales in year 2021. This report helps assess how well AtliQ Hardware is meeting its global sales objectives.<br>
 
 
-### Key Highlights
+ Key Highlights<br>
 Sales Performance by Country: The report breaks down net sales for 2019, 2020, and 2021 by country.<br>
 
 2021 vs. Target Comparison: It compares actual 2021 net sales to established sales targets.<br>
