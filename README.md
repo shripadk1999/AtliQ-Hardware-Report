@@ -216,3 +216,8 @@ For detailed numerical data, please refer to the original report.<br>
  Designing user-centric reports with empathy in mind.<br>
  Optimization of report generation through meticulous fine-tuning.<br>
  Developing a systematic approach to devising a report building plan.<br>
+
+**Shripad Kulkarni**  
+- Email: [shripadkulkarni2212@gmail.com](mailto:shripadkulkarni2212@gmail.com)  
+- LinkedIn: [Shripad Kulkarni](https://www.linkedin.com/in/shripad-kulkarni-candoit)  
+- GitHub: [Shripad Kulkarni](https://github.com/shripadk1999)
